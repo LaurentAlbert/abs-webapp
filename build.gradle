@@ -44,8 +44,8 @@ subprojects {
 }
 
 axelor {
-	title "Axelor ERP"
-	description "Axelor Entreprise Application"
+	title "Institut Limayrac DataBus"
+	description "Institut Limayrac DataBus Application"
 }
 
 def modules = []
